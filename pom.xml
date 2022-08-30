@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mdsolutions.naming.server</groupId>
-	<artifactId>eureka-naming-server</artifactId>
+	<artifactId>docker-eureka-naming-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eureka-naming-server</name>
+	<name>docker-eureka-naming-server</name>
 	<description>MDSolutions naming server</description>
 	<properties>
 		<java.version>11</java.version>
